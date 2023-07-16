@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ...
 
 💬 Связаться со мной:
+
 • Telegram: t.me/leoryx
 
 • Email: alexandr.prishedko@yandex.ru
