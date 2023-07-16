@@ -1,6 +1,6 @@
 ### Hi! I'm Alexander 👋
 ------------------------------------------------------
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+💬 Связаться со мной:
+• Telegram: t.me/leoryx
+• Email: alexandr.prishedko@yandex.ru
