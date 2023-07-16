@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
-**lexxpp/lexxpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi! I'm Alexander 👋
+------------------------------------------------------
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
